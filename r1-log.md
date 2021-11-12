@@ -9,3 +9,7 @@ Started a Weather App. Worked on the draft layout of the app, generated API key 
 
 ### R1D2 - 11/11/2021
 Modified the layout of weather app. Applied some CSS to center the weather card, box shadow property.
+
+### R1D3 - 12/11/2021
+Finished making of Weather App using Vanilla JS and openweathemap API. Deployed the website using netlify.
+
