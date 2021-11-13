@@ -14,4 +14,5 @@ Deployed Wiki Project to Heroku successfully.
 ### R1D3 - 12/11/2021
 Finished making of Weather App using Vanilla JS and openweathemap API. Deployed the website using netlify.
 
-
+### R1D4 - 13/11/2021
+Started Random Quote Generator app using HTML, CSS, JavaScript. Worked on layout of the website.
