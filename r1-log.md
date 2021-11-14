@@ -16,3 +16,6 @@ Finished making of Weather App using Vanilla JS and openweathemap API. Deployed 
 
 ### R1D4 - 13/11/2021
 Started Random Quote Generator app using HTML, CSS, JavaScript. Worked on layout of the website.
+
+### R1D5 - 14/11/2021
+Created array implementation of Quotes Generator.
