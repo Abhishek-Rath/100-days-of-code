@@ -19,3 +19,6 @@ Started Random Quote Generator app using HTML, CSS, JavaScript. Worked on layout
 
 ### R1D5 - 14/11/2021
 Created array implementation of Quotes Generator.
+
+### R1D6 - 15/11/2021
+Learned about REST and SPREAD Operator in JavaScript. No code was pushed on github today.
