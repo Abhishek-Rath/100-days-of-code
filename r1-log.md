@@ -22,3 +22,6 @@ Created array implementation of Quotes Generator.
 
 ### R1D6 - 15/11/2021
 Learned about REST and SPREAD Operator in JavaScript. No code was pushed on github today.
+
+### R1D7 - 16/11/2021
+Worked on Mail project of CS50. Implemented mailbox (sent, inbox, archive) view.
