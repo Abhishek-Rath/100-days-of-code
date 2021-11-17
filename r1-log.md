@@ -25,3 +25,6 @@ Learned about REST and SPREAD Operator in JavaScript. No code was pushed on gith
 
 ### R1D7 - 16/11/2021
 Worked on Mail project of CS50. Implemented mailbox (sent, inbox, archive) view.
+
+### R1D8 - 17/11/2021
+Added border around the mails, register and login section, changed the color of button to make it little good.
