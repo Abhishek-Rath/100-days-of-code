@@ -28,3 +28,6 @@ Worked on Mail project of CS50. Implemented mailbox (sent, inbox, archive) view.
 
 ### R1D8 - 17/11/2021
 Added border around the mails, register and login section, changed the color of button to make it little good.
+
+### R1D9 - 18/11/2021
+Read ReactJS documentation and applied the same in my code. No code pushed on GitHub.
