@@ -31,3 +31,7 @@ Added border around the mails, register and login section, changed the color of 
 
 ### R1D9 - 18/11/2021
 Read ReactJS documentation and applied the same in my code. No code pushed on GitHub.
+
+### R1D10 - 19/11/2021
+Implemented Simple Exponential smoothing time series forecasting algorithm for hackathon.
+Worked on DBMS mini project frontend and pushed to GitHub.
