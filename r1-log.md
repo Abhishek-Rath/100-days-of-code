@@ -35,3 +35,10 @@ Read ReactJS documentation and applied the same in my code. No code pushed on Gi
 ### R1D10 - 19/11/2021
 Implemented Simple Exponential smoothing time series forecasting algorithm for hackathon.
 Worked on DBMS mini project frontend and pushed to GitHub.
+
+### R1D11 - 20/11/2021 
+Worked more on data processing to improve our result for submission. 
+Implemented backend for register and login, in DBMS mini project.
+
+### R1D12 - 21/11/2021
+Worked on different approaches ti improve our submission result in Hackathon.
