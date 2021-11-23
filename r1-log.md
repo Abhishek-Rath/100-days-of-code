@@ -41,7 +41,7 @@ Worked more on data processing to improve our result for submission.
 Implemented backend for register and login, in DBMS mini project.
 
 ### R1D12 - 21/11/2021
-Worked on different approaches ti improve our submission result in Hackathon.
+Worked on different approaches to improve our submission result in Hackathon.
 
 ### R1D13 - 22/11/2021
 Worked on backend of DBMS mini project - create tables, learnt about foreign keys and primary keys.
