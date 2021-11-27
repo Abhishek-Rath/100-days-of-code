@@ -45,3 +45,8 @@ Worked on different approaches to improve our submission result in Hackathon.
 
 ### R1D13 - 22/11/2021
 Worked on backend of DBMS mini project - create tables, learnt about foreign keys and primary keys.
+
+
+### R1D14 - 27/11/2021
+Learned about implementing single page web application using JavaScript from EDX. Practiced some code on local machine.
+No code pushed to github.
