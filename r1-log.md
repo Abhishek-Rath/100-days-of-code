@@ -50,3 +50,6 @@ Worked on backend of DBMS mini project - create tables, learnt about foreign key
 ### R1D14 - 27/11/2021
 Learned about implementing single page web application using JavaScript from EDX. Practiced some code on local machine.
 No code pushed to github.
+
+### R1D15 - 28/11/2021
+Worked on final backend part of DBMS mini project in Flask and MySQL.
