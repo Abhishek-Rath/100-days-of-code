@@ -53,3 +53,7 @@ No code pushed to github.
 
 ### R1D15 - 28/11/2021
 Worked on final backend part of DBMS mini project in Flask and MySQL.
+
+### R1D16 - 14/12/2021
+Worked through react js official documentation of Tic Tac Toe Game. 
+Created repo to keep a track of my reactjs projects.
