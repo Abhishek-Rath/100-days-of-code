@@ -61,3 +61,31 @@ Created repo to keep a track of my reactjs projects.
 ### R1D17 - 15/12/2021
 Read reactjs documentation and worked through the given example.
 Implemented Tic Tac Toe game's X-O board, and function to decide winner.
+
+### R1D18 - 24/12/2021
+Worked on Search Project of CS50 course -  A front-end for Google Search, Google Image Search, and Google Advanced Search.
+
+### R1D19 - 25/12/2021
+Worked on CS50 Wiki project. Styled login forms, added edit feature in the project
+Deployed Wiki app on Heroku
+
+### R1D20 - 26/12/2021
+CS50 Mail app tried to add features like view mail.
+
+### R1D21 - 27/12/2021
+Read some documentations
+
+### R1D22 - 28/12/2021
+Documentations, tried to implement features of mail app. 
+
+### R1D23 - 29/12/2021
+Made a simple react js application as part of CS50 lecture.
+
+### R1D24 - 30/12/2021
+Implemented Email View Feature in Mail app.
+
+### R1D25 - 31/12/21
+Implement reply, archive/unarchive feature in Mail app
+
+### R1D26 - 1/1/2022
+Faced issues with deploying mail app on Heroku.
