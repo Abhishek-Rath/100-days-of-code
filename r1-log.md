@@ -89,3 +89,4 @@ Implement reply, archive/unarchive feature in Mail app
 
 ### R1D26 - 1/1/2022
 Faced issues with deploying mail app on Heroku.
+Edited Procfile, then deployed app successfully.
