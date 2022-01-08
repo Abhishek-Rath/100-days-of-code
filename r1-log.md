@@ -90,3 +90,27 @@ Implement reply, archive/unarchive feature in Mail app
 ### R1D26 - 1/1/2022
 Faced issues with deploying mail app on Heroku.
 Edited Procfile, then deployed app successfully.
+
+### R1D27 - 2/2/2022
+Started working on network project. Worked on adding new post feature.
+
+### R1D28 - 3/2/2022
+Modified navbar in Network project. Add IST time field in django models.
+Restructured forms using bootstrap.
+
+### R1D29 - 4/2/2022
+Tried implementing view particular user's profile feature.
+
+### R1D30 - 5/2/2022
+Successfully implemented users profile feature and pushed code to GitHub.
+Also, implemented feature of following users posts to be displayed on profile page.
+
+### R1D31 - 6/2/2022
+Created following page feature showing logged in user's posts, followers, following.
+
+### R1D31 - 7/2/2022
+Added pagination feature using bootstrap and django.
+
+### R1D31 - 8/2/2022
+Tried follow button feature. Faced issues in reflecting it in the database.
+
