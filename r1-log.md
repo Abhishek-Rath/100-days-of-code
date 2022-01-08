@@ -108,9 +108,9 @@ Also, implemented feature of following users posts to be displayed on profile pa
 ### R1D31 - 6/2/2022
 Created following page feature showing logged in user's posts, followers, following.
 
-### R1D31 - 7/2/2022
+### R1D32 - 7/2/2022
 Added pagination feature using bootstrap and django.
 
-### R1D31 - 8/2/2022
+### R1D33 - 8/2/2022
 Tried follow button feature. Faced issues in reflecting it in the database.
 
