@@ -114,3 +114,6 @@ Added pagination feature using bootstrap and django.
 ### R1D33 - 8/2/2022
 Tried follow button feature. Faced issues in reflecting it in the database.
 
+### R1D34 - 9/2/2022
+Implemented follow button feature with page reload.
+Thinking to fix reload with JavaScript i.e. workinh of follow button should happend without reloading of webpage
