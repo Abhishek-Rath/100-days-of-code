@@ -91,29 +91,32 @@ Implement reply, archive/unarchive feature in Mail app
 Faced issues with deploying mail app on Heroku.
 Edited Procfile, then deployed app successfully.
 
-### R1D27 - 2/2/2022
+### R1D27 - 2/1/2022
 Started working on network project. Worked on adding new post feature.
 
-### R1D28 - 3/2/2022
+### R1D28 - 3/1/2022
 Modified navbar in Network project. Add IST time field in django models.
 Restructured forms using bootstrap.
 
-### R1D29 - 4/2/2022
+### R1D29 - 4/1/2022
 Tried implementing view particular user's profile feature.
 
-### R1D30 - 5/2/2022
+### R1D30 - 5/1/2022
 Successfully implemented users profile feature and pushed code to GitHub.
 Also, implemented feature of following users posts to be displayed on profile page.
 
-### R1D31 - 6/2/2022
+### R1D31 - 6/1/2022
 Created following page feature showing logged in user's posts, followers, following.
 
-### R1D32 - 7/2/2022
+### R1D32 - 7/1/2022
 Added pagination feature using bootstrap and django.
 
-### R1D33 - 8/2/2022
+### R1D33 - 8/1/2022
 Tried follow button feature. Faced issues in reflecting it in the database.
 
-### R1D34 - 9/2/2022
+### R1D34 - 9/1/2022
 Implemented follow button feature with page reload.
-Thinking to fix reload with JavaScript i.e. workinh of follow button should happend without reloading of webpage
+Thinking to fix reload with JavaScript i.e. working of follow button should happend without reloading of webpage
+
+### R1D35 - 10/1/2022
+Tried on react part for follow button logic to make it without reloading. No code pushed to GitHub.
