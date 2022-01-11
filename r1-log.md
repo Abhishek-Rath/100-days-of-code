@@ -116,7 +116,7 @@ Tried follow button feature. Faced issues in reflecting it in the database.
 
 ### R1D34 - 9/1/2022
 Implemented follow button feature with page reload.
-Thinking to fix reload with JavaScript i.e. working of follow button should happend without reloading of webpage
+Thinking to fix reload with JavaScript i.e. working of follow button should happened without reloading of webpage
 
 ### R1D35 - 10/1/2022
 Tried on react part for follow button logic to make it without reloading. No code pushed to GitHub.
@@ -124,4 +124,4 @@ Tried on react part for follow button logic to make it without reloading. No cod
 ### R1D36 - 11/1/2021
 Implemented unfollow feature in Network project.
 Pushed the code on github.
-Trying to work on follow-unfollow feature with page reload feature.
+Trying to work on follow-unfollow feature without page reload feature.
