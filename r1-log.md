@@ -121,7 +121,12 @@ Thinking to fix reload with JavaScript i.e. working of follow button should happ
 ### R1D35 - 10/1/2022
 Tried on react part for follow button logic to make it without reloading. No code pushed to GitHub.
 
-### R1D36 - 11/1/2021
+### R1D36 - 11/1/2022
 Implemented unfollow feature in Network project.
 Pushed the code on github.
 Trying to work on follow-unfollow feature without page reload feature.
+
+### R1D37 - 12/1/2022
+Faced jinja and react issues while working on rendering follow feature without reloading of page.
+No code pushed to github repo
+Thinking to implement class component instead of function component in react.
