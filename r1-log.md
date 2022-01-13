@@ -130,3 +130,7 @@ Trying to work on follow-unfollow feature without page reload feature.
 Faced jinja and react issues while working on rendering follow feature without reloading of page.
 No code pushed to github repo
 Thinking to implement class component instead of function component in react.
+
+### R1D38 - 13/1/2021
+Successfully implemented follow-unfollow feature without page reloading.
+Used this.setState() property along with class cimponent to acheive this.
