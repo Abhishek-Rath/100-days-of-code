@@ -134,4 +134,8 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 
 ### R1D38 - 13/1/2021
 - Successfully implemented follow-unfollow feature without page reloading.
-- Used this.setState() property along with class cimponent to acheive this.
+- Used this.setState() property along with class component to acheive this.
+
+### R139 - 14/1/2021
+- Tried to work on edit post feature using vanilla javascript.
+- Added background image to Network app, modified a little bit of CSS for the post (bootstrap cards).
