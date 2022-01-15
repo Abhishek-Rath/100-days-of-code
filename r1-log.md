@@ -139,3 +139,13 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 ### R139 - 14/1/2021
 - Tried to work on edit post feature using vanilla javascript.
 - Added background image to Network app, modified a little bit of CSS for the post (bootstrap cards).
+
+### R140 - 15/1/2022
+- Worked react blog app.
+- Learned about useState, useEffect with dependency array, states, props.
+- Handling errors using try catch block
+- Little bit about using json server, fetching data from it.
+- Conditonal rendering
+- Routers, Switches, Links
+- No code pushed to github.
+- Working on adding edit feature to blog (additional part from my side)
