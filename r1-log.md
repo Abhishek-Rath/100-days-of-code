@@ -149,3 +149,8 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 - Routers, Switches, Links
 - No code pushed to github.
 - Working on adding edit feature to blog (additional part from my side)
+
+### R141 - 16/1/2022
+- Started birthday card in react.
+- Simple one component app using useState, props.
+- Practiced and learnt about basic react app
