@@ -136,11 +136,11 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 - Successfully implemented follow-unfollow feature without page reloading.
 - Used this.setState() property along with class component to acheive this.
 
-### R139 - 14/1/2021
+### R1D39 - 14/1/2021
 - Tried to work on edit post feature using vanilla javascript.
 - Added background image to Network app, modified a little bit of CSS for the post (bootstrap cards).
 
-### R140 - 15/1/2022
+### R1D40 - 15/1/2022
 - Worked react blog app.
 - Learned about useState, useEffect with dependency array, states, props.
 - Handling errors using try catch block
@@ -150,7 +150,15 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 - No code pushed to github.
 - Working on adding edit feature to blog (additional part from my side)
 
-### R141 - 16/1/2022
+### R1D41 - 16/1/2022
 - Started birthday card in react.
 - Simple one component app using useState, props.
 - Practiced and learnt about basic react app
+
+### R1D42 - 17/1/2022
+- worked on edit feature of Network project
+- Faced url and id issues while working on it.
+
+### R1D43 - 18/1/2022
+- Tried to implement edit feature of Network project.
+- No code pushed to github.
