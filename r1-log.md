@@ -162,3 +162,7 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 ### R1D43 - 18/1/2022
 - Tried to implement edit feature of Network project.
 - No code pushed to github.
+
+### R1D44 - 20/1/2022
+- Implemented edit feature with edit.html
+- Current issue:- page reload after edit
