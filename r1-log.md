@@ -166,3 +166,11 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 ### R1D44 - 20/1/2022
 - Implemented edit feature with edit.html
 - Current issue:- page reload after edit
+
+### R1D45 - 21/1/2022
+- Tried to work on edit feature using JavaScript to make edits to a post without reload feature.
+
+### R1D46 - 23/1/2022
+- Worked on forked repository **IndoKhadyam**.
+- Implemented simple footer design using react styled components 
+- Opened a pull request for the same.
