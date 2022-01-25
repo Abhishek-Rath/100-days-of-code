@@ -174,3 +174,6 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 - Worked on forked repository **IndoKhadyam**.
 - Implemented simple footer design using react styled components 
 - Opened a pull request for the same.
+
+### R1D47 - 25/1/2022
+- Started new react project task tracker
