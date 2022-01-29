@@ -177,3 +177,16 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 
 ### R1D47 - 25/1/2022
 - Started new react project task tracker
+
+### R1D48 - 26/1/2022
+- Made Header & Button Component
+- Styled the components
+
+### R1D49 - 27/1/2022
+- Added Navbar component
+- Styled navbar using flexbox
+
+### R1D50 - 29/1/2022
+- Modifies style of all components
+- Added quicksand google font
+- Added Task component.
