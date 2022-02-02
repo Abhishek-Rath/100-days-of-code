@@ -190,3 +190,8 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 - Modified style of all components
 - Added quicksand google font
 - Added Task component.
+
+### R1D51 - 30/1/2022
+- Tried to add delete task feature to task tracker app.
+
+### R1D52 - 1/2/2022
