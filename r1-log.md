@@ -195,3 +195,12 @@ The log of my #100DaysOfCode challenge. Started on [November 10, Wednesday, 2021
 - Tried to add delete task feature to task tracker app.
 
 ### R1D52 - 1/2/2022
+- Added Tasks component
+
+### R1D53 - 2/2/2022
+- Modified some components, added some styling
+
+### R1D54 - 3/2/2022
+- Learned how to deploy a react app to github pages
+- Pushed the app to github
+- Deployed website
