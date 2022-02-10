@@ -26,3 +26,15 @@
 
 ### R2D57 - 6/2/2022
 - Tried to work on like feature in social network project
+
+### R2D58 - 7/2/2022
+- Successfully implemented like feature on the post.
+- Used CSS emoji to show the liked post
+
+### R2D59 - 8/2/2022
+- Added the like functionality on the profile and following page
+- Changed number of posts visible to the page from 3 to 10
+
+### R2D60 - 9/2/2022
+- Used material icons to show the delete icon.
+- Added delete post functionality
