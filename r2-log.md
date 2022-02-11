@@ -39,7 +39,7 @@
 - Used material icons to show the delete icon.
 - Added delete post functionality
 
-## R2D61 - 10/2/2022
+### R2D61 - 10/2/2022
 - Implemented Edit feature without page reload
 
 ### R2D62 - 11/2/2022
