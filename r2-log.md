@@ -38,3 +38,9 @@
 ### R2D60 - 9/2/2022
 - Used material icons to show the delete icon.
 - Added delete post functionality
+
+## R2D61 - 10/2/2022
+- Implemented Edit feature without page reload
+
+### R2D62 - 11/2/2022
+- Added csrf in JavaScript to provide security to edit the post
