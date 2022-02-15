@@ -44,3 +44,14 @@
 
 ### R2D62 - 11/2/2022
 - Added csrf in JavaScript to provide security to edit the post
+
+### R2D63 - 13/2/2022
+- Started learning about django rest framework (DRF)
+- Worked through quickstart guide
+
+### R2D64 - 14/2/2022
+- Started working on the pastebin snippet tutorial guide of DRF
+- Learned bit about serialization in DRF for JSon response
+
+### R2D65 - 15/2/2022
+- Finished with serialization part
