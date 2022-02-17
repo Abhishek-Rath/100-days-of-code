@@ -54,4 +54,10 @@
 - Learned bit about serialization in DRF for JSon response
 
 ### R2D65 - 15/2/2022
-- Finished with serialization part
+- Finished with serialization part in Django Rest Framework
+
+### R2D66 - 16/2/2022
+- Worked through the request and response part of Django Rest Framework
+
+### R267 - 17/2/2022
+- Implemented class based views
