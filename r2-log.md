@@ -60,4 +60,10 @@
 - Worked through the request and response part of Django Rest Framework
 
 ### R267 - 17/2/2022
-- Implemented class based views
+- Implemented class based views in Django Rest Framework
+
+### R268 - 18/2/2022
+- Implemented authentication and permission in DRF
+
+### R269 - 19/2/2022
+- Implemented Relationships & Hyperlinked APIs in DRF
